@@ -1,9 +1,6 @@
 *.exe
-
 *.log
-*
-.apk
-
+*.apk
 */*.exe
 */*/*.exe
 */*/*/*.exe
